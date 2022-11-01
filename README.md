@@ -24,8 +24,7 @@ As all other C projects at the 42 school, the code has to written in accordance 
 
 ## RESULT
 
-<img width="1155" alt="Screenshot 2022-10-30 at 09 33 11" src="https://user-images.githubusercontent.com/85942176/198869646-110923ba-77cc-48e7-831b-7cd0526bad6e.png">
-
+<img width="1173" alt="Screenshot 2022-11-01 at 06 54 19" src="https://user-images.githubusercontent.com/85942176/199168233-4203f3f3-cd4d-42dd-9f00-fef74468fa0e.png">
 
 ## TESTING
 
